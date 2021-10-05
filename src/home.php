@@ -1,8 +1,7 @@
 <?php
-    require_once '../generics/page.php';
-    $page = new page();
-    $page->head();
- ?>
+    require_once 'head.php';
+
+?>
  <div class="container-fluid">
                             <div class="card shadow mb-4">
                                 <div class="card-header py-3">
